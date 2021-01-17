@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Simpe-Todo-App/static/css/main.d1a61a88.chunk.css",
+    "main.js": "/Simpe-Todo-App/static/js/main.f246796c.chunk.js",
+    "main.js.map": "/Simpe-Todo-App/static/js/main.f246796c.chunk.js.map",
+    "runtime-main.js": "/Simpe-Todo-App/static/js/runtime-main.1a164dce.js",
+    "runtime-main.js.map": "/Simpe-Todo-App/static/js/runtime-main.1a164dce.js.map",
+    "static/js/2.eb7b0aec.chunk.js": "/Simpe-Todo-App/static/js/2.eb7b0aec.chunk.js",
+    "static/js/2.eb7b0aec.chunk.js.map": "/Simpe-Todo-App/static/js/2.eb7b0aec.chunk.js.map",
+    "static/js/3.9f6857d1.chunk.js": "/Simpe-Todo-App/static/js/3.9f6857d1.chunk.js",
+    "static/js/3.9f6857d1.chunk.js.map": "/Simpe-Todo-App/static/js/3.9f6857d1.chunk.js.map",
+    "index.html": "/Simpe-Todo-App/index.html",
+    "static/css/main.d1a61a88.chunk.css.map": "/Simpe-Todo-App/static/css/main.d1a61a88.chunk.css.map",
+    "static/js/2.eb7b0aec.chunk.js.LICENSE.txt": "/Simpe-Todo-App/static/js/2.eb7b0aec.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/Simpe-Todo-App/static/media/bg.8dc3a536.svg",
+    "static/media/ellipse1.7acf1533.svg": "/Simpe-Todo-App/static/media/ellipse1.7acf1533.svg",
+    "static/media/ellipse2.a30ba0dd.svg": "/Simpe-Todo-App/static/media/ellipse2.a30ba0dd.svg",
+    "static/media/vector1.c44ca8d4.svg": "/Simpe-Todo-App/static/media/vector1.c44ca8d4.svg",
+    "static/media/vector2.33c8413d.svg": "/Simpe-Todo-App/static/media/vector2.33c8413d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a164dce.js",
+    "static/js/2.eb7b0aec.chunk.js",
+    "static/css/main.d1a61a88.chunk.css",
+    "static/js/main.f246796c.chunk.js"
+  ]
+}
